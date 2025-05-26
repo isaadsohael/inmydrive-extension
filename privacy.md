@@ -1,6 +1,6 @@
 # Privacy Policy for InMyDrive
 
-Last updated: [Insert Date]
+Last updated: [27 May, 2025]
 
 InMyDrive ("we", "our", or "us") is committed to protecting your privacy.
 
@@ -26,4 +26,4 @@ We may update this privacy policy from time to time. Any changes will be posted 
 
 ## Contact Us
 
-If you have questions about this privacy policy, please contact us at: [your email address]
+If you have questions about this privacy policy, please contact us at: [mse21.rocks@gmail.com]
